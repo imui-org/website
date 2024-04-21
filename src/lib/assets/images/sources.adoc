@@ -1,0 +1,11 @@
+= Sources for images
+
+[cols="1,1,1"]
+|===
+|File |Source |Author
+
+|letter-lowercase-sqare-i.svg
+|https://www.svgrepo.com/svg/517386/letter-lowercase-square-i
+|https://www.svgrepo.com/author/Donnnno/
+
+|===
