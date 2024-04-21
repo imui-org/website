@@ -4,14 +4,14 @@
 			<p class="text-sm text-gray-500">
 				<a
 					class="inline-block text-teal-600 underline transition hover:text-teal-600/75"
-					href="static/impress.html"
+					href="/impress"
 				>
 					Impressum
 				</a>
 				<span>&middot;</span>
 				<a
 					class="inline-block text-teal-600 underline transition hover:text-teal-600/75"
-					href="static/privacy.html"
+					href="/privacy"
 				>
 					Datenschutzerklärung
 				</a>
